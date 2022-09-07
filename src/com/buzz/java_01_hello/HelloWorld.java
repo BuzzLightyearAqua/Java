@@ -1,4 +1,4 @@
-package com.buzz.java_01_Hello;
+package com.buzz.java_01_hello;
 
 /**
  * @author BuzzLightyear
