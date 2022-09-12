@@ -5,16 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="409a5176-4ec9-42e9-a718-c2e9fce45e4b" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_02_variable/VariableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_03_array/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_04_process_control/DoWhileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_04_process_control/IfDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_04_process_control/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_04_process_control/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_04_process_control/SwitchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_04_process_control/WhileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_03_array/ArraySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_03_array/EachArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_05_oop/AbstractDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_05_oop/CityDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_05_oop/ConstructionMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_05_oop/ExtendsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_05_oop/InterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_05_oop/PersonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_05_oop/StaticFieldDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_05_oop/StaticMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_06_core_classes/EnumDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_06_core_classes/EnumDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_06_core_classes/StringBuilderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_06_core_classes/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_07_throwable/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_07_throwable/TryCatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_08_reflection/AccessFieldDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_08_reflection/ClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_08_reflection/GetFieldValueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_08_reflection/InvokeMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_08_reflection/SetFieldValueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/buzz/java_09_collection/ArrayListDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/buzz/java_01_hello/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/buzz/java_01_hello/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +73,7 @@
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
@@ -72,18 +86,26 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.last.edited" value="项目" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.配色方案字体" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="应用程序.ForDemo">
-    <configuration name="DoWhileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.buzz.java_04_process_control.DoWhileDemo" />
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\StudyObject\Study_Java\src\com\buzz\java_07_throwable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.ArrayListDemo">
+    <configuration name="AccessFieldDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.buzz.java_08_reflection.AccessFieldDemo" />
       <module name="Study_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.buzz.java_04_process_control.*" />
+          <option name="PATTERN" value="com.buzz.java_08_reflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.buzz.java_04_process_control.ForDemo" />
+    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.buzz.java_09_collection.ArrayListDemo" />
       <module name="Study_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.buzz.java_04_process_control.*" />
+          <option name="PATTERN" value="com.buzz.java_09_collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.buzz.java_04_process_control.IfDemo" />
+    <configuration name="GetFieldValueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.buzz.java_08_reflection.GetFieldValueDemo" />
       <module name="Study_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.buzz.java_04_process_control.*" />
+          <option name="PATTERN" value="com.buzz.java_08_reflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.buzz.java_04_process_control.Output" />
+    <configuration name="InvokeMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.buzz.java_08_reflection.InvokeMethodDemo" />
       <module name="Study_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.buzz.java_04_process_control.*" />
+          <option name="PATTERN" value="com.buzz.java_08_reflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.buzz.java_04_process_control.WhileDemo" />
+    <configuration name="SetFieldValueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.buzz.java_08_reflection.SetFieldValueDemo" />
       <module name="Study_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.buzz.java_04_process_control.*" />
+          <option name="PATTERN" value="com.buzz.java_08_reflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.ForDemo" />
-        <item itemvalue="应用程序.DoWhileDemo" />
-        <item itemvalue="应用程序.WhileDemo" />
-        <item itemvalue="应用程序.IfDemo" />
-        <item itemvalue="应用程序.Output" />
+        <item itemvalue="应用程序.ArrayListDemo" />
+        <item itemvalue="应用程序.InvokeMethodDemo" />
+        <item itemvalue="应用程序.SetFieldValueDemo" />
+        <item itemvalue="应用程序.GetFieldValueDemo" />
+        <item itemvalue="应用程序.AccessFieldDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +184,12 @@
       <option name="presentableId" value="Default" />
       <updated>1662537238879</updated>
       <workItem from="1662537240075" duration="1969000" />
-      <workItem from="1662539242738" duration="6684000" />
+      <workItem from="1662539242738" duration="12011000" />
+      <workItem from="1662598206167" duration="4356000" />
+      <workItem from="1662620511131" duration="2536000" />
+      <workItem from="1662685127299" duration="3891000" />
+      <workItem from="1662952683352" duration="12405000" />
+      <workItem from="1662985805228" duration="80000" />
     </task>
     <servers />
   </component>
